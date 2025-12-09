@@ -60,8 +60,7 @@ async def repo(_, message):
 
         text = f"""[𝖱𝖤𝖯𝖮 𝖫𝖨𝖭𝖪](https://t.me/BotXMedia) |
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
-----------------
-{list_of_users}"""
+----------------"""
         await app.send_message(message.chat.id, text=text, disable_web_page_preview=True)
     else:
         await app.send_message(message.chat.id, text="Failed to fetch contributors.")
