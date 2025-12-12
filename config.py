@@ -58,10 +58,10 @@ API_KEY = getenv("API_KEY", 'NxGBNexGenBots6ebe24') # youtube song api key
 #----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://t.me/LINK_KI_HAWELII")
+SOURCE = getenv("SOURCE", "https://t.me/+PXPlT_VLhvEyZjQ1")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/nobixnn/Calin",
+    "https://github.com/dhfncdjvch/Shizuka",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -76,9 +76,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BotXMedia")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Ai0XvmpCgmlkYmNl")
-CHAT = getenv("CHAT", "https://t.me/+nw0erTqamNZmN2I1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/ShizukaUpdate")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+PXPlT_VLhvEyZjQ1")
+CHAT = getenv("CHAT", "https://t.me/+PXPlT_VLhvEyZjQ1")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
@@ -160,18 +160,18 @@ STREAMI_PICS = [
 
 
 HELP_IMG_URL = getenv(
-    "HELP_IMG_URL", "https://i.ibb.co/xPjc7tv/help-menu.jpg"
+    "HELP_IMG_URL", "https://files.catbox.moe/ipans2.jpg"
 )
 
-START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/fu6jk3.jpg")
-PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/26nzoq.jpg")
-PLAYLIST_IMG_URL = "https://files.catbox.moe/f2s4ws.jpg"
+START_IMG_URL = getenv("START_IMG_URL", "https://files.catbox.moe/cp33ao.jpg")
+PING_IMG_URL = getenv("PING_IMG_URL", "https://files.catbox.moe/z0j77u.jpg")
+PLAYLIST_IMG_URL = "https://files.catbox.moe/z0j77u.jpg"
 STATS_IMG_URL = "https://files.catbox.moe/z0gh23.jpg"
-TELEGRAM_AUDIO_URL = "https://files.catbox.moe/2y5o3g.jpg"
-TELEGRAM_VIDEO_URL = "https://files.catbox.moe/2y5o3g.jpg"
+TELEGRAM_AUDIO_URL = "https://files.catbox.moe/z0j77u.jpg"
+TELEGRAM_VIDEO_URL = "https://files.catbox.moe/z0j77u.jpg"
 STREAM_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
 SOUNCLOUD_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
-YOUTUBE_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
+YOUTUBE_IMG_URL = "https://files.catbox.moe/z0j77u.jpg"
 SPOTIFY_ARTIST_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
 SPOTIFY_ALBUM_IMG_URL = "https://files.catbox.moe/2y5o3g.jpg"
 SPOTIFY_PLAYLIST_IMG_URL = "https://telegra.ph/file/d30d11c4365c025c25e3e.jpg"
